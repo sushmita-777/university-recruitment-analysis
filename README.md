@@ -28,6 +28,7 @@ The 2 datasets with updated data from April 5 and June 6 have been added to the 
 Here the objective is to understand the overall status of the Applications  submitted to the University across all programs. 
 The primary metric we need to analyze here is how many offers have been accepted and declined. 
 
+![254375801-bce08bf8-8b2a-4c28-8522-5a6119171075](https://github.com/sushmita-777/university-recruitment-analysis/assets/149097855/6edf39ed-a67a-43fb-be65-958908f7b25b)
 
 
 **Key Insights from the above Dashboard**
@@ -45,6 +46,7 @@ We analyze the Offer Conversion Funnel as of June 6 and April 5
 In this Dashboard, our objective is to understand the distribution of Applications across the 10 territories and where most 
 of the students accept their offers.
 
+![territory-performance](https://github.com/sushmita-777/university-recruitment-analysis/assets/149097855/7ca92010-48cc-4c0a-bbc1-972ece002f2e)
 
 
 **Key Insights from the above Dashboard**
@@ -62,6 +64,7 @@ Even though NA regions students apply in large numbers, their offer acceptance i
 
 In this Dashboard, we aim to understand how various programs are performing and which programs are popular among students 
 
+![programs-performance](https://github.com/sushmita-777/university-recruitment-analysis/assets/149097855/d2d83e6e-0d66-4c77-9afa-911d2e33789a)
 
 
 **Key Insights from the above Dashboard**
@@ -80,6 +83,7 @@ The dashboard below will help us understand the application status at a city pin
 We also try to figure out areas of opportunities so that University representatives can be allocated accordingly
 
 
+![254375912-66035c5b-c46a-4d74-8262-4d37d23a5cf0](https://github.com/sushmita-777/university-recruitment-analysis/assets/149097855/91d28efb-2539-4790-9fdb-489b8e309282)
 
 Author: Sushmita Shekhawat
     
